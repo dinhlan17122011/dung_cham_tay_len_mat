@@ -24,3 +24,9 @@
   font-size: 1.4em;
   margin: 0 8px;
 }
+
+.progress {
+  margin-top: 10px;
+  color: #007bff;
+  font-weight: bold;
+}
